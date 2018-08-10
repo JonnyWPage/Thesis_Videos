@@ -1,4 +1,4 @@
-# Thesis-Supplementary-Videos
+# Thesis_Videos
 The Biomechanics of the Dipteran Wing Hinge Supplementary Videos
 
 This repository contains a number of videos which accompany my thesis entitled 'The Biomechanics of the Dipteran Wing Hinge'.
